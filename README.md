@@ -1,8 +1,14 @@
+<h1>Note Taking Application</h1>
 Android application which can be used to take notes.The application uses Recycler view to store the notes in a 
 vertical scrollable format storing any number of notes.The notes can be inserted or deleted by clicking on the
 submit or delete button respectively.The application uses two of the architecture components namely Room Database
 and Life Cycle.MVVM Architecture is used to design the application thus providing a separation of concern between 
 the main activity, View Model, Repository and Dao.
+
+<h1>Tech Stack:</h1>
+Kotlin, Xml, Android Studio
+
+<h1>Images:</h1>
 
 <p float ="left">
 <img src = https://user-images.githubusercontent.com/74343156/148636172-5e254319-72f1-4405-a4fd-c025c59696c7.jpeg width=275 height=450>
